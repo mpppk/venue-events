@@ -36,7 +36,7 @@ build/Release
 node_modules/
 
 ## ignore generated JavaScript files
-functions/**/*.js
+functions/lib/*.js
 functions/**/*.js.map
 
 # Typescript v1 declaration files
